@@ -14,9 +14,11 @@ A fork of the Wrangler tool, which is a plugin, used for code refactoring [Erlan
 
 #### [Bucketlist](https://github.com/sevmarc/bucketlist)
 Bucketlist was created to learn markdown notetaking, using [Obsidian](obsidian.md). The notes contain a list of locations I hope to visit one day. A simple python module was also created to parse the location info,  
-and map it on an [OSM](https://www.openstreetmap.org) map. 
+and map it on an [OSM](https://www.openstreetmap.org) map.  
 
 
+
+:heavy_plus_sign: [LinkedIn profile](www.linkedin.com/in/marton-sevella)
 
 <!--
 **sevmarc/sevmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
