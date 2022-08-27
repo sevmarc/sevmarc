@@ -27,7 +27,7 @@ and map it on an [OSM](https://www.openstreetmap.org) map.
 - Basic [vehicle simulation](https://github.com/sevmarc/vehicle_simulation-swtesting_practice) in Python
 - Bsic [linux commands](https://github.com/sevmarc/configs-linux-knowhow), wargames solutions
 
-:heavy_plus_sign: [LinkedIn profile](www.linkedin.com/in/marton-sevella)
+:heavy_plus_sign: [LinkedIn profile](https://www.linkedin.com/in/marton-sevella)
 
 <!--
 **sevmarc/sevmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
