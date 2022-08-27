@@ -25,7 +25,7 @@ and map it on an [OSM](https://www.openstreetmap.org) map.
 - [Simple website](https://github.com/sevmarc/sevmarc.github.io)
   - Check out the public source code of this simple website: [sevmarc.github.io](https://sevmarc.github.io)
 - Basic [vehicle simulation](https://github.com/sevmarc/vehicle_simulation-swtesting_practice) in Python
-- Bsic [linux commands](https://github.com/sevmarc/configs-linux-knowhow), wargames solutions
+- Basic [linux commands](https://github.com/sevmarc/configs-linux-knowhow), wargames solutions
 
 :heavy_plus_sign: [LinkedIn profile](https://www.linkedin.com/in/marton-sevella)
 
