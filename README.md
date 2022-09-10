@@ -26,6 +26,7 @@ and map it on an [OSM](https://www.openstreetmap.org) map.
   - Check out the public source code of this simple website: [sevmarc.github.io](https://sevmarc.github.io)
 - Basic [vehicle simulation](https://github.com/sevmarc/vehicle_simulation-swtesting_practice) in Python
 - Basic [linux commands](https://github.com/sevmarc/configs-linux-knowhow), wargames solutions
+- A python project for a [webcrawler](https://github.com/sevmarc/pysimple-news): a simple program to read CNN news, and a small GUI (using the PySimpleGUI package) as practice
 
 :heavy_plus_sign: [LinkedIn profile](https://www.linkedin.com/in/marton-sevella)
 
